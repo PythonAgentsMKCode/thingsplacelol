@@ -1,0 +1,7 @@
+Here are the square numbers and sum:
+1
+4
+9
+16
+25
+The sum is 55
