@@ -1,0 +1,7 @@
+DaVinci1 71 56 38 58
+DaVinci2 48 41 16 40
+DaVinci3 78 62 40 64
+Rembrandt1 57 42 23 45
+Rembrandt2 71 55 22 56
+Rembrandt3 87 53 13 58
+
